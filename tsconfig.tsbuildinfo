@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/components/graph.tsx","./src/components/statenode.tsx","./src/lib/automata.ts","./src/lib/examples.ts","./src/pages/about.tsx","./src/pages/home.tsx","./src/pages/sim.tsx"],"version":"5.9.3"}
